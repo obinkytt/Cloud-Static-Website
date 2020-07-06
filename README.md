@@ -23,6 +23,7 @@
  * Give the backet a name.
 
 ![bucket1](https://user-images.githubusercontent.com/4149567/86653635-f42a9b80-bfaa-11ea-9bf9-afca42d1ddda.jpg)
+
  
  * upload the HTML file to the bucket.
  
