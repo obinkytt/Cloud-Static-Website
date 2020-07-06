@@ -27,7 +27,8 @@
  
  * upload the HTML file to the bucket.
  
- 
+ ![uplaod](https://user-images.githubusercontent.com/4149567/86658951-132b2c80-bfaf-11ea-810d-02da6acfc448.jpg)
+
  
  
  * Give the bucket and the file public access by making it public and make the the bucket public.
