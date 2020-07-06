@@ -39,7 +39,10 @@
  
  ![Bucket Policy](https://user-images.githubusercontent.com/4149567/86660077-05c27200-bfb0-11ea-85d5-b7e87bfda85c.jpg)
  
- * Click on the file and get a URL. copy the URL in the bowser.
+### Click on the file and get a URL. copy the URL in the bowser.
+ 
+ ![webaddress](https://user-images.githubusercontent.com/4149567/86660608-7f5a6000-bfb0-11ea-87fa-720a3b39e3e9.jpg)
+
  
  # YOU ARE DONE
  
