@@ -20,13 +20,13 @@
  ![Create1](https://user-images.githubusercontent.com/4149567/86658332-96984e00-bfae-11ea-9921-e109000fa900.jpg)
  
  
-###Give the backet a name.
+### Give the backet a name.
 
 
 ![bucket1](https://user-images.githubusercontent.com/4149567/86653635-f42a9b80-bfaa-11ea-9bf9-afca42d1ddda.jpg)
 
  
-###upload the HTML file to the bucket.
+### upload the HTML file to the bucket.
 
  
  ![uplaod](https://user-images.githubusercontent.com/4149567/86658951-132b2c80-bfaf-11ea-810d-02da6acfc448.jpg)
