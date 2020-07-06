@@ -33,7 +33,7 @@
  
  * Give the bucket and the file public access by making it public and make the the bucket public.
  
- 
+ ![Public](https://user-images.githubusercontent.com/4149567/86659503-859c0c80-bfaf-11ea-91be-24f14291f602.jpg)
  
  * Go to permission and edit bucket policy and save.
  
