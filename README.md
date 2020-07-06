@@ -18,7 +18,7 @@
  * Go to AWS Services and create a bucket on s3. Give the backet a name.
  upload the HTML file to the bucket.
  
- ![bucket1](https://user-images.githubusercontent.com/4149567/86652594-28ea2300-bfaa-11ea-996d-1c0e3099445a.jpg)
+
  
  * Give the bucket and the file public access by making it public and make the the bucket public.
  
